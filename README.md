@@ -56,3 +56,6 @@ D.  Provide an intuitive interface for the user to view the delivery status (inc
 •  Provide screenshots to show the status of all packages loaded onto each truck at a time between 8:35 a.m. and 9:25 a.m.
 •  Provide screenshots to show the status of all packages loaded onto each truck at a time between 9:35 a.m. and 10:25 a.m.
 •  Provide screenshots to show the status of all packages loaded onto each truck at a time between 12:03 p.m. and 1:12 p.m.
+
+11. main.py: modified previously written code to be more readable and more consistent (capitalization, formatting, & variable names)
+12. main.py: lines 276-322: added a main interface to allow user input and communicate inportant information with the user, such as package status
